@@ -18,9 +18,5 @@ Prerequisites
 
 Before running the script, make sure you have Python 3.x and pip installed on your system.
 
- Install Required Libraries
 
-Install the required Python library (`requests`) by running:
 
-bash
-pip install requests
